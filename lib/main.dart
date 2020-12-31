@@ -9,7 +9,7 @@ class Testapp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "ทดสอบสร้างไม่ใช้ wizard",
+      title: "ทดสอบสร้าง app ไม่ใช้ wizard",
       home: Homepage1(),
     );
   }
